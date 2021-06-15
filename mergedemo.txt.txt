@@ -1,2 +1,2 @@
 This is android app
-with white theme
+with black theme
